@@ -7,7 +7,7 @@
 
 ## Featured Projects
 
-### Code Repo (Live Updates)
+#### Best Repos: 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agustinestevah&repo=UChicago-Mathematics&theme=default)](https://github.com/agustinestevah/UChicago-Mathematics)
 
 ---
