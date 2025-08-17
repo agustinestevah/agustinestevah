@@ -9,9 +9,19 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agustinestevah&repo=UChicago-Mathematics&theme=default)](https://github.com/agustinestevah/UChicago-Mathematics)
 
-**Math REU Paper (2024):** [Measure Theory, Stochastic Calculus, and the Black–Scholes–Merton Model](https://math.uchicago.edu/~may/REU2024/REUPapers/Esteva.pdf)  
+<div align="left">
+  <a href="https://math.uchicago.edu/~may/REU2024/REUPapers/Esteva.pdf">
+    <img src="https://img.shields.io/badge/Math_REU_2024-PDF-blue?style=for-the-badge">
+  </a>
+  <p><em>Measure Theory, Stochastic Calculus, and the Black–Scholes–Merton Model</em></p>
+</div>
 
-**Math REU Paper (2025):** (in progress)  
+<div align="left">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Math_REU_2025-Work_in_progress-lightgrey?style=for-the-badge">
+  </a>
+  <p><em>Coming soon</em></p>
+</div>
 
 ---
 
