@@ -16,7 +16,7 @@
 
 <div align="left">
   <a href="https://math.uchicago.edu/~may/REU2024/REUPapers/Esteva.pdf">
-    <img src="https://img.shields.io/badge/📄_Math_REU_2024-PDF-blue?style=for-the-badge&logo=latex" />
+    <img src="https://img.shields.io/badge/📄_Math_REU_2024-Measure Theory, Stochastic Calculus, and the Black–Scholes–Merton Model-blue?style=for-the-badge&logo=latex" />
   </a>
   <p><strong>Measure Theory, Stochastic Calculus, and the Black–Scholes–Merton Model</strong></p>
 </div>
