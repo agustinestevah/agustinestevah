@@ -8,6 +8,7 @@
 ## Featured Projects
 
 #### Best Repos: 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agustinestevah&repo=Resume&theme=default)](https://github.com/agustinestevah/Resume)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agustinestevah&repo=UChicago-Mathematics&theme=default)](https://github.com/agustinestevah/UChicago-Mathematics)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agustinestevah&repo=UChicago-Economics&theme=default)](https://github.com/agustinestevah/UChicago-Economics)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agustinestevah&repo=Nightlight-Satellite-Harmonizer&theme=default)](https://github.com/agustinestevah/Nightlight-Satellite-Harmonizer)
