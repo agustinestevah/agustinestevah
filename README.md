@@ -11,6 +11,6 @@
 ##Connect!
  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/agustin-esteva)
  - [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](aesteva@uchicago.edu)
- - [![Letterboxd](https://img.shields.io/badge/Email-green?logo=letterboxd)](https://boxd.it/2ozux)
+ - [![Letterboxd](https://img.shields.io/badge/Letterboxd-green?logo=letterboxd)](https://boxd.it/2ozux)
 
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
