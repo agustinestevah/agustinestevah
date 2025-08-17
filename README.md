@@ -5,20 +5,27 @@
 
 ---
 
-## Featured  
+## Featured Projects
 
+### Code Repo (Live Updates)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agustinestevah&repo=UChicago-Mathematics&theme=default)](https://github.com/agustinestevah/UChicago-Mathematics)
+
+---
+
+### Research Papers
 
 <div align="left">
   <a href="https://math.uchicago.edu/~may/REU2024/REUPapers/Esteva.pdf">
-    <img src="https://img.shields.io/badge/Math_REU_2024-Measure_Theory,_Stochastic Calculus,_and_the_Black–Scholes–Merton Model-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/📄_Math_REU_2024-PDF-blue?style=for-the-badge&logo=latex" />
+  </a>
+  <p><strong>Measure Theory, Stochastic Calculus, and the Black–Scholes–Merton Model</strong></p>
 </div>
 
 <div align="left">
   <a href="#">
-    <img src="https://img.shields.io/badge/Math_REU_2025-Work_in_progress-lightgrey?style=for-the-badge">
+    <img src="https://img.shields.io/badge/📄_Math_REU_2025-Work_in_Progress-orange?style=for-the-badge&logo=latex" />
   </a>
-  <p><em>Coming soon</em></p>
+  <p><strong>Coming soon</strong></p>
 </div>
 
 ---
