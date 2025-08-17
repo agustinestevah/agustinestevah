@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi!
+ - I'm a math and econ student at the University of Chicago.
+ - I am most interested in probability (see my papers!) and game theory (no papers yet!)
+ - I take notes and upload my PSETs here.
 
-<!--
-**agustinestevah/agustinestevah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured:
+ - [Math Notes](https://github.com/agustinestevah/UChicago-Mathematics): Includes Honors Analysis in Rn and Complex Analysis
+ - [Math REU Paper (2024)](https://math.uchicago.edu/~may/REU2024/REUPapers/Esteva.pdf): Measure Theory, Stochastic Calculus, and the Black-Scholes-Merton Model
+ - [Math REU Paper (2025)](): Working on it!
 
-Here are some ideas to get you started:
+##Connect!
+ - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/agustin-esteva)
+ - [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](aesteva@uchicago.edu)
+ - [![Letterboxd]](https://boxd.it/2ozux)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
