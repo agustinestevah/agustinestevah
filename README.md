@@ -4,7 +4,8 @@
 - I take notes and upload my PSETs here.  
 
 ---
-![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&client_id=ecfad12b76d2406a85720998ad5e1ff7&client_secret=b23b7a0fb7bd4364a63a1c58c71f77a1&refresh_token=YOUR_REFRESH_TOKEN)---
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8zosoi16tl3um4mopz0jhxdwm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+---
 
 ## Featured Projects
 
