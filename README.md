@@ -10,7 +10,7 @@
 
 ### 🎧 **What I'm Listening To** 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8zosoi16tl3um4mopz0jhxdwm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)---
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=8zosoi16tl3um4mopz0jhxdwm&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=8zosoi16tl3um4mopz0jhxdwm&cover_image=true&theme=default&show_offline=true&background_color=25378d&interchange=true&bar_color_cover=true&bar_color=19e811)]]
 
 </div>
 ---
