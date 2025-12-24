@@ -14,14 +14,8 @@
 </div>
 ---
 
-## Featured Projects
 
-#### Best Repos: 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agustinestevah&repo=Resume&theme=default)](https://github.com/agustinestevah/Resume)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agustinestevah&repo=UChicago-Mathematics&theme=default)](https://github.com/agustinestevah/UChicago-Mathematics)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agustinestevah&repo=UChicago-Economics&theme=default)](https://github.com/agustinestevah/UChicago-Economics)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agustinestevah&repo=Nightlight-Satellite-Harmonizer&theme=default)](https://github.com/agustinestevah/Nightlight-Satellite-Harmonizer)
----
+
 
 ### Research Papers
 Mathematics REU at the University of Chicago:
@@ -31,8 +25,8 @@ Mathematics REU at the University of Chicago:
 </div>
 
 <div align="left">
-  <a href="#">
-    <img src="https://img.shields.io/badge/📄_Math_REU_2025-Work_in_Progress-orange?style=for-the-badge&logo=latex" />
+  <a href="https://math.uchicago.edu/~may/REU2025/REUPapers/Esteva.pdf">
+    <img src="https://img.shields.io/badge/📄_Math_REU_2025-Random Curves and Schramm-Loewner Evolutions-blue?style=for-the-badge&logo=latex" />
 </div>
 
 ---
